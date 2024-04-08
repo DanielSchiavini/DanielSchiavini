@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate developer</h3>
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/danielschiavini" target="blank">
