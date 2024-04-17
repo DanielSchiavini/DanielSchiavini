@@ -127,8 +127,10 @@ Here are some ideas to get you started:
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielschiavini&show_icons=true&locale=en&layout=compact" alt="danielschiavini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielschiavini&show_icons=true&locale=en" alt="danielschiavini" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielschiavini&" alt="danielschiavini" /></p>
